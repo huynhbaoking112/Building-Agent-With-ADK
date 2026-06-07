@@ -13,6 +13,7 @@ created: 2026-06-07
 
 ## Ghi chú
 
+- [[Artifacts trong ADK]]
 - [[Tool Limitations trong ADK]]
 
 ## Nhóm chủ đề
@@ -20,3 +21,7 @@ created: 2026-06-07
 ### Tools
 
 - [[Tool Limitations trong ADK]]
+
+### Storage
+
+- [[Artifacts trong ADK]]

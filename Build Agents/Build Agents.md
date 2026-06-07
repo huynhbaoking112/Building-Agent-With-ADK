@@ -15,6 +15,8 @@ created: 2026-06-07
 
 - [[Agent Config trong ADK]]
 - [[Agent Team và MCP trong ADK]]
+- [[Collaborative Workflows trong ADK]]
+- [[Dynamic Workflows trong ADK]]
 - [[Graph Data Handling trong ADK]]
 - [[Graph Routes trong ADK]]
 - [[Human Input trong Graph Workflow ADK]]
@@ -26,6 +28,7 @@ created: 2026-06-07
 
 - [[Agent Config trong ADK]]
 - [[Agent Team và MCP trong ADK]]
+- [[Collaborative Workflows trong ADK]]
 - [[Planner và BuiltInCodeExecutor trong LlmAgent]]
 
 ### Graph Workflow
@@ -33,3 +36,9 @@ created: 2026-06-07
 - [[Graph Routes trong ADK]]
 - [[Graph Data Handling trong ADK]]
 - [[Human Input trong Graph Workflow ADK]]
+- [[Dynamic Workflows trong ADK]]
+
+### Agent Collaboration
+
+- [[Agent Team và MCP trong ADK]]
+- [[Collaborative Workflows trong ADK]]

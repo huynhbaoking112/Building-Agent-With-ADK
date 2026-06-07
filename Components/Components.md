@@ -15,6 +15,7 @@ created: 2026-06-07
 
 - [[Artifacts trong ADK]]
 - [[Context trong ADK]]
+- [[Sessions trong ADK]]
 - [[Tool Limitations trong ADK]]
 
 ## Nhóm chủ đề

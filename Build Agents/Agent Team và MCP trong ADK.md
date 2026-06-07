@@ -14,6 +14,8 @@ created: 2026-06-07
 
 # Agent Team và MCP trong ADK
 
+> Hub: [[Build Agents]]
+
 ## Tóm tắt
 
 `Agent Team` trong ADK là cách xây một hệ thống gồm nhiều AI agent phối hợp với nhau. Thay vì nhồi tất cả logic vào một agent duy nhất, ta chia thành:

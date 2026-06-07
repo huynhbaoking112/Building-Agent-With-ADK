@@ -14,6 +14,8 @@ created: 2026-06-07
 
 # Graph Data Handling trong ADK
 
+> Hub: [[Build Agents]]
+
 ## Tóm tắt
 
 `Graph Data Handling` nói về cách dữ liệu di chuyển giữa các node trong graph workflow của ADK.

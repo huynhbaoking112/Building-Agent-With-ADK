@@ -14,6 +14,8 @@ created: 2026-06-07
 
 # Planner và BuiltInCodeExecutor trong LlmAgent
 
+> Hub: [[Build Agents]]
+
 ## Tóm tắt
 
 `planner` và `BuiltInCodeExecutor` đều làm `LlmAgent` mạnh hơn, nhưng chúng nằm ở hai tầng khác nhau.

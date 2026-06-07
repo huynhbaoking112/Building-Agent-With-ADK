@@ -13,6 +13,8 @@ created: 2026-06-07
 
 # Human Input trong Graph Workflow ADK
 
+> Hub: [[Build Agents]]
+
 ## Tóm tắt
 
 `Human Input` trong graph workflow là cách thêm bước hỏi người dùng vào workflow.

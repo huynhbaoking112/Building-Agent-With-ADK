@@ -14,6 +14,8 @@ created: 2026-06-07
 
 # Graph Routes trong ADK
 
+> Hub: [[Build Agents]]
+
 ## Tóm tắt
 
 `Graph Routes` là cách xây workflow dạng graph trong ADK. Thay vì để một `LlmAgent` tự quyết toàn bộ bằng prompt, ta định nghĩa rõ:

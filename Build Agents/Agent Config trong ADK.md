@@ -13,6 +13,8 @@ created: 2026-06-07
 
 # Agent Config trong ADK
 
+> Hub: [[Build Agents]]
+
 ## Tóm tắt
 
 `Agent Config` là tính năng cho phép xây ADK agent bằng file YAML thay vì viết toàn bộ bằng Python/Java code.
